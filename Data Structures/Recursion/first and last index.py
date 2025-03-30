@@ -19,7 +19,7 @@ def find_first_index(arr, element):
         return ansfromrecursion + 1
 
 
-arr = [3,2,1,7,5,7,6]       
+arr = [3,2,1,7,5,7,8]       
 print(find_first_index(arr,5))
 
 
